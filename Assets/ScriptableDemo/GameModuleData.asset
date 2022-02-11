@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 866811d7c1c330d4bac12ebb3a9f26f0, type: 3}
+  m_Name: GameModuleData
+  m_EditorClassIdentifier: 
+  GameModules:
+  - ModuleName: Roman
+    NameSpace: Roman
+    ScriptFileRootPath: Assets/ScriptableDemo
+  - ModuleName: UnderWater
+    NameSpace: UnderWater
+    ScriptFileRootPath: Assets/ScriptableDemo
